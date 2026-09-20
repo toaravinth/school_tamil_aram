@@ -79,7 +79,7 @@ def list_files_with_extension(directory, extension):
 
 # --- Main Execution (same as Version 1, but calls the Pillow function) ---
 root_directory = r'/Users/aravinth/Library/CloudStorage/GoogleDrive-toaravinth@gmail.com/My Drive/custom/projects/github/toaravinth/school_tamil_aram/grade3'
-directory_prefix = 'grade3_exe_text_2023_part1'
+directory_prefix = 'grade3_hwb_2023'
 file_extension = '.jpg'
 
 matching_directories = find_directories_with_prefix(root_directory, directory_prefix)
